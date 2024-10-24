@@ -1,0 +1,4 @@
+<blocks>
+  <!-- Contains - Supaplex77 -->
+  <set xpath="/blocks/block[contains(@name, 'Chair')]/property[@name='Stacknumber']/@value">99999</set>
+</blocks>

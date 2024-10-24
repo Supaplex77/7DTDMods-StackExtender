@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="FDR_Stack_Extender"/>
+	<DisplayName value="99999 Stack Extender + Engine" />
+    <Description value="Stack Size Extended to 99999. You can also stack engines and some furnitures like chairs."/>
+    <Author value="Supaplex77"/>
+	<Version value="1.0.0"/>
+    <Website value="https://github.com/Supaplex77/7DTDMods-StackExtender"/>
+</xml>
